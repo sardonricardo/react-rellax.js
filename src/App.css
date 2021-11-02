@@ -1,0 +1,31 @@
+.app {
+    display: flex;
+    flex-direction: row;
+    min-height: 100vh;
+    width: 90%;
+    margin: auto;
+}
+
+.left-side {
+    width: 60%;
+    padding-top: 30vh;
+}
+
+.right-side {
+    width: 50%;
+}
+
+.green-section {
+    background-color: aquamarine;
+    min-height: 100vh;
+
+}
+
+h2 {
+    font-size: 48px; 
+    color: black;
+}
+
+.paragraph {
+    opacity: 0.5;
+}
